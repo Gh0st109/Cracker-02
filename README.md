@@ -1,3 +1,4 @@
-The Cracker-02 game
+# Cracker-02
 
-This is a game that I am working on at the moment and this is a sequel to a game that I developed some time ago while I was learning C++
+This is just a game that I am working on at the moment and also, my code may be terrible and I am sorry for what you are about 
+to see.
