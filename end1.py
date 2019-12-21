@@ -1,0 +1,16 @@
+import time
+
+print("")
+print("ACCESS DENIED!")
+time.sleep(3)
+print("INTRUSION DETECTED!")
+time.sleep(3)
+print("This incident will be reported to the police and you will be arrested\n")
+time.sleep(3)
+print("FCA: You have failed to bring down Macroware and you weren't even able to hack into the sysadmin's account!")
+time.sleep(3)
+print("FCA: It was a mistake hiring you again. Maybe you aren't qualified to handle this kind of job.")
+time.sleep(3)
+print("FCA: You're fired and don't think we will hire you again.")
+print("Goodbye friend!\n")
+print("Ending 1: fired")
